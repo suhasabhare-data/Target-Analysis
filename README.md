@@ -11,7 +11,9 @@ As a data scientist at Target, you've been given the exciting opportunity to ana
 📚 The dataset is available in 8 csv files:
 
 customers.csv 🧑‍🤝‍🧑
+
 geolocation.csv 🗺️
+
 order_items.csv 🛍️
 payments.csv 💳
 reviews.csv 📝
