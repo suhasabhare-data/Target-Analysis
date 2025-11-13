@@ -41,7 +41,8 @@ Top 5 states where delivery is really fast/ not so fast compared to estimated da
 Payment type analysis: 💳
 Month over Month count of orders for different payment types 📊
 Count of orders based on the no. of payment installments 🔢
-Image
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/da89de10-9ad6-4cd5-8f56-2ce106cafce1" />
+
 
 Support
 Give a ⭐️ if you like this project!
